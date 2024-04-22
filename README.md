@@ -2,9 +2,9 @@
 
 This project consist in create your first machine in VirtualBox (or UTM if you can’t use VirtualBox) under specific instructions. Then, at the end of this project, you will be able to set up your own operating system while implementing strict rules.
 
-## Capabilities
+## Knowledge acquired
 
-After succeeding in this project, you will have knowledge in:
+After succeeding this project, you will have skills in:
 
 - Virtual Machines, specifically in Virtual Box.
 
